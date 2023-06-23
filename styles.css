@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #2f3035;
+}
+
+header {
+  background-color: blue;
+  height: 118px;
+}
+nav {
+  background-color: yellowgreen;
+  height: 40px;
+}
+main {
+  background-color: tomato;
+  height: 400px;
+}
+footer {
+  background-color: violet;
+  height: 100px;
+}
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1024px;
+}
